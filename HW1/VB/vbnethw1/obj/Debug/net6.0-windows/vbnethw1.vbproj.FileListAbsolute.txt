@@ -1,0 +1,17 @@
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\bin\Debug\net6.0-windows\vbnethw1.exe
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\bin\Debug\net6.0-windows\vbnethw1.deps.json
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\bin\Debug\net6.0-windows\vbnethw1.runtimeconfig.json
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\bin\Debug\net6.0-windows\vbnethw1.dll
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\bin\Debug\net6.0-windows\vbnethw1.pdb
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.vbproj.AssemblyReference.cache
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.Form1.resources
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.vbproj.GenerateResource.cache
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.AssemblyInfoInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.AssemblyInfo.vb
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.vbproj.CoreCompileInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.dll
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\refint\vbnethw1.dll
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.pdb
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\vbnethw1.genruntimeconfig.cache
+D:\Desktop\Cartellone\CyberSecurity\Statistics\vbnethw1\vbnethw1\obj\Debug\net6.0-windows\ref\vbnethw1.dll
