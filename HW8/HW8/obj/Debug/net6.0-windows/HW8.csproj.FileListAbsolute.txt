@@ -1,0 +1,36 @@
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\bin\Debug\net6.0-windows\HW8.exe
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\bin\Debug\net6.0-windows\HW8.deps.json
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\bin\Debug\net6.0-windows\HW8.runtimeconfig.json
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\bin\Debug\net6.0-windows\HW8.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\bin\Debug\net6.0-windows\HW8.pdb
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.csproj.AssemblyReference.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.Form1.resources
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.Properties.Resources.resources
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.csproj.GenerateResource.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.AssemblyInfoInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.AssemblyInfo.cs
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.csproj.CoreCompileInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\refint\HW8.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.pdb
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\HW8.genruntimeconfig.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8\HW8\obj\Debug\net6.0-windows\ref\HW8.dll
+C:\Users\irene\Desktop\HW8\HW8\bin\Debug\net6.0-windows\HW8.exe
+C:\Users\irene\Desktop\HW8\HW8\bin\Debug\net6.0-windows\HW8.deps.json
+C:\Users\irene\Desktop\HW8\HW8\bin\Debug\net6.0-windows\HW8.runtimeconfig.json
+C:\Users\irene\Desktop\HW8\HW8\bin\Debug\net6.0-windows\HW8.dll
+C:\Users\irene\Desktop\HW8\HW8\bin\Debug\net6.0-windows\HW8.pdb
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.csproj.AssemblyReference.cache
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.Form1.resources
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.Properties.Resources.resources
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.csproj.GenerateResource.cache
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.AssemblyInfoInputs.cache
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.AssemblyInfo.cs
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.csproj.CoreCompileInputs.cache
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.dll
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\refint\HW8.dll
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.pdb
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\HW8.genruntimeconfig.cache
+C:\Users\irene\Desktop\HW8\HW8\obj\Debug\net6.0-windows\ref\HW8.dll
