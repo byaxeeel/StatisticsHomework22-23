@@ -1,0 +1,17 @@
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\bin\Debug\net6.0-windows\HW8.1.exe
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\bin\Debug\net6.0-windows\HW8.1.deps.json
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\bin\Debug\net6.0-windows\HW8.1.runtimeconfig.json
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\bin\Debug\net6.0-windows\HW8.1.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\bin\Debug\net6.0-windows\HW8.1.pdb
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.csproj.AssemblyReference.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8._1.Form1.resources
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.csproj.GenerateResource.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.AssemblyInfoInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.AssemblyInfo.cs
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.csproj.CoreCompileInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\refint\HW8.1.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.pdb
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\HW8.1.genruntimeconfig.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW8.1\HW8.1\obj\Debug\net6.0-windows\ref\HW8.1.dll
